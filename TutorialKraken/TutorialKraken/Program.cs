@@ -13,7 +13,7 @@ namespace TutorialKraken
             Console.WriteLine ("UwU");
             Console.WriteLine("SANGRE Y TRUENOS");
             Console.ReadLine();
-
+            HOLA QUE ASE
         }
     }
 }
