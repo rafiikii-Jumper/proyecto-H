@@ -14,7 +14,7 @@ namespace TutorialKraken
             Console.WriteLine("SANGRE Y TRUENOS");
             Console.WriteLine("matenmEwpnJASNJAN");
             Console.ReadLine();
-            HOLA QUE ASE
+            HOLA QUE ASE DEJA EL WASAP EN CLASE
         }
     }
 }
