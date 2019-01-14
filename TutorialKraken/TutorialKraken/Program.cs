@@ -12,6 +12,7 @@ namespace TutorialKraken
         {
             Console.WriteLine ("UwU");
             Console.WriteLine("SANGRE Y TRUENOS");
+            Console.WriteLine("matenmEwpnJASNJAN");
             Console.ReadLine();
 
         }
